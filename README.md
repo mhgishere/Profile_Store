@@ -36,25 +36,6 @@ A MERN stack app for storing profile links of people you admire, in one place.
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
 
-## Screenshots
-
-#### Desktop/Tablet Home
-
-![desktop-tablet](https://github.com/k74-shubham/Profile-Archive/assets/94985314/807afef3-07cd-4e96-915f-7d3ace74b21e)
-
-#### Auth Forms
-
-![auth-forms](https://github.com/k74-shubham/Profile-Archive/assets/94985314/e3d0b27b-2cdf-42d8-a786-28e372afe079)
-
-#### Pop-up windows (modals)
-
-![modals](https://github.com/k74-shubham/Profile-Archive/assets/94985314/89155b71-6c94-43b2-9e1c-e4e83bcef00a)
-
-#### Mobile UI
-
-![mobile-ui-1](https://github.com/k74-shubham/Profile-Archive/assets/94985314/e4952333-d4ba-408e-aec8-2ed08529693d)
-![mobile-ui-2](https://github.com/k74-shubham/Profile-Archive/assets/94985314/78902032-5e52-4a4e-aca4-ed6bbdf56b4c)
-
 ## Usage
 
 Notes:
